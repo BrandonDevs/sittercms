@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">	<!-- No website resize on Mobile -->
+<meta name="description" content="I'm a 20 year old Freelance Web Designer living in California.">
+
+<!--[if lt IE 9]>
+  <meta http-equiv="refresh" content="0; URL='http://www.branign.com/internet-explorer.php'" />
+<![endif]-->	<!-- Redirects Internet Explorer 8 and lower -->
+
+<script src="http://www.branign.com/js/jquery-2.1.4.min.js"></script>	<!-- JQuery -->
+
+<script src="http://www.branign.com/js/smoothscroll.js"></script>	<!-- Slower jump to top animation -->
+<script src="http://www.branign.com/js/hidenav.js"></script>		<!-- Hides nav when scrolling down -->
+
+<link rel="stylesheet" href="http://www.branign.com/style.css"/>
+<link rel="stylesheet" href="http://www.branign.com/mobile.css"/>	<!-- Less than 1080px -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5191c5">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link href='https://fonts.googleapis.com/css?family=Jura:400,600' rel='stylesheet' type='text/css'>	<!-- Jura Font -->
+<link rel="stylesheet" href="no-head.css"/>
+<title>Internal Error - Freelance Web Designer Brandon</title>
+
+</head>
+
+<body>
+
+<div id="top"></div>
+
+<div id="wrapper">
+
+<nav class="links">
+	<ul>
+		<li><a href="http://www.branign.com">Home</a></li>
+		<li><a href="http://www.branign.com/portfolio">Portfolio</a></li>
+		<li><a href="http://www.branign.com/blog">Blog</a></li>
+	</ul>
+</nav>
+
+<div class="mnav">
+	<ul>
+		<li><a href="http://www.branign.com/index.php" class="link">Home</a></li>
+		<li><a href="http://www.branign.com/portfolio" class="link">Portfolio</a></li>
+		<li><a href="http://www.branign.com/blog" class="link">Blog</a></li>
+	</ul>
+</div>
+
+<div id="container">
+
+<article class="center">
+<h1>500 Error</h1>
+
+<p>Internal error has occured. Normally a server or code issue. Email me if you believe this was a mistake.</p> <address><a href="mailto:branign@outlook.com">branign@outlook.com</a></address>
+
+</article>
+
+</div> <!-- /#container -->
+
+<footer>
+
+	<p>Branign 2016</p>
+
+	<p><a href="#top">Jump to the top<!-- <img src="images/top.png" width="35" height="35" alt="Jump to top"/> --></a></p>
+
+	<p><a href="http://www.branign.com/privacy-policy">Privacy Policy</a> &bull; <a href="http://www.branign.com/cookie-policy">Cookie Policy</a></p>
+
+</footer>
+
+</div> <!-- /#wrapper -->
+
+</body>
+</html>
